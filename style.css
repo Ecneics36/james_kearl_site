@@ -1,0 +1,16 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+    background-color: floralwhite;
+    margin: 5em;
+}
+
+.title {
+    display: flex;
+    justify-content: space-around;
+    align-items: center
+}
+
+.verse {
+    line-height: 1.5em;
+}
